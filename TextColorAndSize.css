@@ -1,5 +1,6 @@
 a, li, h1, p {
 	color: rgb(0,147,17);
+	text-align: center;
 }
 hr {
 	border: 2px solid green;
