@@ -38,8 +38,14 @@ a:hover {
 	from {background-color: black; color: green;}
 	to {background-color: green; color: black;}
 }
-.show a {
-	display: inline-table;
+.options a {
+	display: block;
+}
+.options {
+	width:0;
+	height: 100%;
+	right:0;
+	top:0;
 }
 h1:hover {
 	transition: width 3s;
